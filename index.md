@@ -1,4 +1,4 @@
-# Witam na oficjalnej stronie Parcour autistic p******s asisstas group!
+# Witam na oficjalnej stronie Parcour autistic asisstas group!
 
 Witam na stronie poświęconej pomysłom spotkań i aktualnościami ciężko widocznymi wśród spamu wiadomości.
 
