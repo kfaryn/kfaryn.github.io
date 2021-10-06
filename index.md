@@ -9,6 +9,7 @@ Jest to projekt stworzony na potrzeby przedmiotu na studiach, a zarazem okazja d
 ## Wyprawy i wyjścia
 
 W tej zakładce będą pojawiać się planowane wyjścia.
+
 [Kręgle/Bilard](https://kfaryn.github.io/kregle/)
 
 [Wyparawy piesze](https://kfaryn.github.io/wyprawy/)
