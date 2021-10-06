@@ -1,6 +1,6 @@
 # Witam na oficjalnej stronie Parcour autistic p******s asisstas group!
 
-Witam na stronie poświęconej pomysłom spotkań i aktualnościami ciężko widocznymi wśród spamu wiadomośi.
+Witam na stronie poświęconej pomysłom spotkań i aktualnościami ciężko widocznymi wśród spamu wiadomości.
 
 ## Dlaczego ta strona?
 
@@ -16,7 +16,7 @@ W tej zakładce będą pojawiać się planowane wyjścia.
 
 ## Informacja dla Najlepszego
 
-[Only najlepszy pusg ten button](https://kfaryn.github.io/najlepszy/)
+[Only najlepszy push ten button](https://kfaryn.github.io/najlepszy/)
 
 
 ### Kontakt
