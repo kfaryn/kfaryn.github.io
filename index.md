@@ -19,4 +19,4 @@ Jest to projekt stworzony na potrzeby przedmiotu na studiach, a zarazem okazja d
 
 ### Kontakt
 
-Proszę wszelkie skarki pisać na messengerze.
+Proszę wszelkie skargi pisać na messengerze.
