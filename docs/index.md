@@ -7,11 +7,12 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
 
 ```markdown
-Syntax highlighted code block
+W tym miejscu będą się pojawiały propozycje wyjść
 
-# Header 1
-## Header 2
-### Header 3
+# Koszykówka / Siatkówka
+## Kręgle / Bilard
+## Planszówki
+### Wyprawy piesze
 
 - Bulleted
 - List
