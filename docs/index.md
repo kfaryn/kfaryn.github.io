@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Witam na oficjalnej stronie Parcour Autistic Assistas Group
 
-You can use the [editor on GitHub](https://github.com/kfaryn/kfaryn.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cel strony
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
 
 ```markdown
 Syntax highlighted code block
