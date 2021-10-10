@@ -14,7 +14,7 @@ Jak to mówią "Tyrtum pyrtum"!
 
 ## Wyprawy oraz wyjścia sportowe
 
-[Wyprawy piesze](https://github.com/kfaryn/strona/)
+[Wyprawy piesze](https://github.com/kfaryn/strona/index.html)
 
 [Koszykówka/Siatkówka/Piłka nożna]()
 
