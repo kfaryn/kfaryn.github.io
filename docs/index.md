@@ -15,6 +15,7 @@ Jak to mówią "Tyrtum pyrtum"!
 ## Wyprawy oraz wyjścia sportowe
 
 [Wyprawy piesze]()
+
 [Koszykówka/Siatkówka/Piłka nożna]()
 
 ## Kręgle/Bilard
@@ -35,4 +36,4 @@ Jak to mówią "Tyrtum pyrtum"!
 Wszelkie skargi proszę pisać na messengerze. Ostatnio coraz częściej rzucam telefon po przyjściu
 i przypominam sobie o nim po kilku godzinach, co doliczając czas szukania może oznaczać dłuższą
 chwilę na uzykanie odpowiedzi. Proszę się nie poddawać! 
-## PS: Ty Tobiasz możesz dzwonić na komórkę :)
+### PS: Ty Tobiasz możesz dzwonić na komórkę :)
