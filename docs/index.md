@@ -7,20 +7,9 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
 
 ```markdown
-W tym miejscu będą się pojawiały propozycje wyjść
-
-# Koszykówka / Siatkówka
-## Kręgle / Bilard
-## Planszówki
-### Wyprawy piesze
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Poniżej prezentowane są sekcje, gdzie
+każdy może kliknąć i zobaczyć czy nie
+szykuje się coś nowego. Dodatkowo jest
+dedykowana zakładka dla najlepszego.
+Jak to mówią "Tyrtum pyrtum"!
 ```
