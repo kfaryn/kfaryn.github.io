@@ -38,4 +38,3 @@ i przypominam sobie o nim po kilku godzinach, co doliczając czas szukania może
 chwilę na uzykanie odpowiedzi. Proszę się nie poddawać! 
 #### PS: Ty Tobiasz możesz dzwonić na komórkę :)
 
-<img alt="Dane" src="https://kfaryn.github.io/strona/img/najlepszy.jpg" align="center" />
