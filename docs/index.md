@@ -16,7 +16,7 @@ Jak to mówią "Tyrtum pyrtum"!
 
 [Wyprawy piesze](https://kfaryn.github.io/strona/)
 
-[Koszykówka/Siatkówka/Piłka nożna]()
+[Koszykówka/Siatkówka/Piłka nożna](https://kfaryn.github.io/strona/pilka/)
 
 ## Kręgle/Bilard
 
