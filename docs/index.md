@@ -29,7 +29,7 @@ Jak to mówią "Tyrtum pyrtum"!
 
 ## Informacja dla Najlepszego
 
-[Only Najlepszy can push this button](https://github.com/kfaryn/strona/img/najlepszy.jpg)
+[Only Najlepszy can push this button](https://github.com/kfaryn/strona/img/najlepszy.jpeg)
 
 ### Kontakt
 
@@ -37,3 +37,5 @@ Wszelkie skargi proszę pisać na messengerze. Ostatnio coraz częściej rzucam 
 i przypominam sobie o nim po kilku godzinach, co doliczając czas szukania może oznaczać dłuższą
 chwilę na uzykanie odpowiedzi. Proszę się nie poddawać! 
 #### PS: Ty Tobiasz możesz dzwonić na komórkę :)
+
+<img alt="Dane" src="https://github.com/kfaryn/strona/img/najlepszy.jpeg" align="center" />
