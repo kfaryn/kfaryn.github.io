@@ -2,7 +2,7 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
-<img alt="add" src="../docs/add.JPG" align="justify" />
+<img alt="add" src="../docs/add.JPG" align="center" />
 
 ## Cel strony
 
