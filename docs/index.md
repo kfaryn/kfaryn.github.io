@@ -25,7 +25,7 @@ Jak to mówią "Tyrtum pyrtum"!
 
 ## Planszówki
 
-[Planowane planszówki]()
+[Planowane planszówki](https://kfaryn.github.io/strona/planszowki/)
 
 ## Informacja dla Najlepszego
 
