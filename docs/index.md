@@ -2,6 +2,8 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
+(https://kfaryn.github.io/add.jpg)
+
 ## Cel strony
 
 Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
