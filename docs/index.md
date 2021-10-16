@@ -2,7 +2,7 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
-<img alt="add" src="../docs/add.jpeg" align="center" />
+<img alt="add" src="https://kfaryn.github.io/add.jpg" align="center" />
 
 ## Cel strony
 
