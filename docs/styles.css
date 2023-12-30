@@ -13,10 +13,10 @@
 
 /* Styl modal-content */
 .modal-content {
-  margin: 5% auto;
+  margin: 10% auto;
   display: block;
-  width: 70%;
-  max-width: 800px;
+  width: 315px; /* szerokość obrazka */
+  height: 608px; /* wysokość obrazka */
   background-color: #fefefe;
   padding: 20px;
   border-radius: 10px;
