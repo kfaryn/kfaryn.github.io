@@ -7,7 +7,7 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 <div id="myModal" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal()">&times;</span>
-    ![Modal Image](https://kfaryn.github.io/strona/img/add.JPG)
+    <img src="https://kfaryn.github.io/strona/img/add.JPG" alt="Modal Image" style="max-width: 100%; max-height: 100%; display: block; margin: 0 auto;">
   </div>
 </div>
 
