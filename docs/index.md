@@ -1,7 +1,6 @@
 # Witam na oficjalnej stronie Parcour Autistic Assistas Group
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
-
 ---
 layout: default
 ---
@@ -18,8 +17,10 @@ layout: default
 
   <!-- Modal -->
   <div id="myModal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" src="[https://aaa/add.JPG](https://kfaryn.github.io/strona/img/add.JPG)" alt="add">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <img src="https://kfaryn.github.io/strona/img/add.JPG" alt="add">
+    </div>
   </div>
 
   <!-- Skrypt JavaScript -->
