@@ -18,8 +18,10 @@ layout: default
 
   <!-- Modal -->
   <div id="myModal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" src="https://kfaryn.github.io/strona/img/add.JPG" alt="add">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <img src="https://kfaryn.github.io/strona/img/add.JPG" alt="add" onclick="closeModal()">
+    </div>
   </div>
 
   <!-- Skrypt JavaScript -->
