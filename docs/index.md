@@ -2,9 +2,40 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
-<a href="https://kfaryn.github.io/strona/img/add.JPG" data-lightbox="image-1" data-title="Opis zdjęcia">
-  <img alt="add" src="https://kfaryn.github.io/strona/img/add.JPG" align="center" />
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Strona z wyskakującym obrazem</title>
+</head>
+<body>
+
+  <!-- Modal -->
+  <div id="myModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" src="https://kfaryn.github.io/strona/img/add.JPG" alt="add">
+  </div>
+
+  <!-- Skrypt JavaScript -->
+  <script>
+    // Funkcja otwierająca modal
+    function openModal() {
+      document.getElementById('myModal').style.display = 'block';
+    }
+
+    // Funkcja zamykająca modal
+    function closeModal() {
+      document.getElementById('myModal').style.display = 'none';
+    }
+
+    // Otwarcie modalu po załadowaniu strony
+    window.onload = openModal;
+  </script>
+
+</body>
+</html>
 
 ## Cel strony
 
