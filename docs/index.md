@@ -1,7 +1,6 @@
 # Witam na oficjalnej stronie Parcour Autistic Assistas Group
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -29,13 +28,21 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
     // Funkcja zamykająca modal
     function closeModal() {
       document.getElementById('myModal').style.display = 'none';
+      
+      // Zapisujemy informację o zamknięciu modala w localStorage
+      localStorage.setItem('modalClosed', 'true');
     }
 
     // Funkcja sprawdzająca przewinięcie strony
     window.onscroll = function() {
-      // Jeżeli użytkownik przewinął stronę o 300 pikseli, to otwórz modal
+      // Sprawdzamy, czy modal był już zamknięty wcześniej
+      var isModalClosed = localStorage.getItem('modalClosed');
+      
+      // Jeżeli użytkownik przewinął stronę o 300 pikseli i modal nie był wcześniej zamknięty, to otwórz modal
       if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-        openModal();
+        if (!isModalClosed) {
+          openModal();
+        }
       }
     };
   </script>
