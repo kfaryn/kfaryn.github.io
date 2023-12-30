@@ -1,6 +1,7 @@
 # Witam na oficjalnej stronie Parcour Autistic Assistas Group
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
+
 ---
 layout: default
 ---
