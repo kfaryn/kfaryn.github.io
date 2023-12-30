@@ -31,8 +31,13 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
       document.getElementById('myModal').style.display = 'none';
     }
 
-    // Otwarcie modalu po załadowaniu strony
-    window.onload = openModal;
+    // Funkcja sprawdzająca przewinięcie strony
+    window.onscroll = function() {
+      // Jeżeli użytkownik przewinął stronę o 300 pikseli, to otwórz modal
+      if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        openModal();
+      }
+    };
   </script>
 
 </body>
