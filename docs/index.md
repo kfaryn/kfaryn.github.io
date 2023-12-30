@@ -2,46 +2,38 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  <title>Strona z wyskakującym obrazem</title>
-</head>
-<body>
+![Open Modal](https://kfaryn.github.io/strona/img/add.JPG){: .modal-trigger }
 
-  <!-- Modal -->
-  <div id="myModal" class="modal">
-    <div class="modal-content">
-      <span class="close" onclick="closeModal()">&times;</span>
-      <img src="https://kfaryn.github.io/strona/img/add.JPG" alt="add" onclick="closeModal()">
-    </div>
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img src="https://kfaryn.github.io/strona/img/add.JPG" alt="Modal Image" style="max-width: 100%; max-height: 100%; display: block; margin: 0 auto;">
   </div>
+</div>
 
-  <!-- Skrypt JavaScript -->
-  <script>
-    // Funkcja otwierająca modal
-    function openModal() {
-      document.getElementById('myModal').style.display = 'block';
+<script>
+  // Funkcja otwierająca modal
+  function openModal() {
+    document.getElementById('myModal').style.display = 'block';
+  }
+
+  // Funkcja zamykająca modal
+  function closeModal() {
+    document.getElementById('myModal').style.display = 'none';
+  }
+
+  // Funkcja sprawdzająca przewinięcie strony
+  window.onscroll = function() {
+    var modalTrigger = document.querySelector('.modal-trigger');
+    var modalPosition = modalTrigger.offsetTop;
+    
+    // Jeżeli użytkownik przewinął stronę w dół, a modal nie jest otwarty, to otwórz modal
+    if (window.scrollY > modalPosition && document.getElementById('myModal').style.display !== 'block') {
+      openModal();
     }
+  };
+</script>
 
-    // Funkcja zamykająca modal
-    function closeModal() {
-      document.getElementById('myModal').style.display = 'none';
-    }
-
-    // Funkcja sprawdzająca przewinięcie strony
-    window.onscroll = function() {
-      // Jeżeli użytkownik przewinął stronę o 300 pikseli, to otwórz modal
-      if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-        openModal();
-      }
-    };
-  </script>
-
-</body>
-</html>
 
 ## Cel strony
 
