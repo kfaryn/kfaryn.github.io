@@ -12,9 +12,14 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 </div>
 
 <script>
+  var isModalOpen = false;  // Dodana zmienna do śledzenia stanu modala
+
   // Funkcja otwierająca modal
   function openModal() {
-    document.getElementById('myModal').style.display = 'block';
+    if (!isModalOpen) {
+      document.getElementById('myModal').style.display = 'block';
+      isModalOpen = true;  // Ustawienie stanu modalu na otwarty
+    }
   }
 
   // Funkcja zamykająca modal
@@ -26,9 +31,9 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
   window.onscroll = function() {
     var modalTrigger = document.querySelector('.modal-trigger');
     var modalPosition = modalTrigger.offsetTop;
-    
+
     // Jeżeli użytkownik przewinął stronę w dół, a modal nie jest otwarty, to otwórz modal
-    if (window.scrollY > modalPosition && document.getElementById('myModal').style.display !== 'block') {
+    if (window.scrollY > modalPosition && !isModalOpen) {
       openModal();
     }
   };
