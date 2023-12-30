@@ -2,11 +2,6 @@
 
 Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
----
-layout: default
----
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
