@@ -58,8 +58,8 @@ Więcej treści wkrótce ;)
 
 ```markdown
 Poniżej prezentowane są sekcje, gdzie każdy może kliknąć i zobaczyć czy nie
-szykuje się coś nowego. Dodatkowo jest dedykowana zakładka dla najlepszego.
-Jak to mówią "Tyrtum pyrtum"!
+szykuje się coś nowego. Dodatkowo jest dedykowana zakładka dla Najlepszego.
+Zapraszam do klikania!
 ```
 
 ## Wyprawy oraz wyjścia sportowe
