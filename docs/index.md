@@ -52,7 +52,9 @@ Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
 
 ## Cel strony
 
-Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
+Początkowo strona miała charakter humorystyczny z nastawieniem na rozwijanie umiejętności budowania strony.
+Obecnie jest w fazie reorganizacji na przedstawianie wyników miniprojektów analitycznych związanych z moimi zainteresowaniami.
+Więcej treści wkrótce ;)
 
 ```markdown
 Poniżej prezentowane są sekcje, gdzie każdy może kliknąć i zobaczyć czy nie
